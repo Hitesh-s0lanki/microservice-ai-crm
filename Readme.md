@@ -2,6 +2,14 @@
 
 ![Architecture Overview](./images/arch.svg)
 
+---
+
+## 🚫 License
+
+This codebase and its components are **confidential and proprietary** to [26ideas](https://26ideas.com/). Redistribution or reuse without permission is strictly prohibited.
+
+---
+
 ## Overview
 
 This repository represents the microservices-based architecture used to power **26ideas CRM** and **EventCRM CRM**, two robust business tools for managing customer relationships and events.
@@ -47,10 +55,10 @@ The backend architecture follows a fully decoupled **Microservices Pattern** lev
 ### 🔹 26ideas CRM
 
 <div align="center">
-  <img src="./images/26ideas/crm26ideas.png" width="300" />
-  <img src="./images/26ideas/dashboard.png" width="300" />
-  <img src="./images/26ideas/tasks.png" width="300" />
-  <img src="./images/26ideas/job.png" width="300" />
+  <img src="./images/26ideas/crm26ideas.png" width="500" />
+  <img src="./images/26ideas/dashboard.png" width="500" />
+  <img src="./images/26ideas/tasks.png" width="500" />
+  <img src="./images/26ideas/job.png" width="500" />
 </div>
 
 ---
@@ -59,12 +67,6 @@ The backend architecture follows a fully decoupled **Microservices Pattern** lev
 
 - **Eureka Discovery Server** – For service registry and discovery.
 - **API Gateway** – Unified entry point for all services.
-
----
-
-## 🚫 License
-
-This codebase and its components are **confidential and proprietary** to [26ideas](https://26ideas.com/). Redistribution or reuse without permission is strictly prohibited.
 
 ---
 
